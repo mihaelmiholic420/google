@@ -1,0 +1,159 @@
+body {
+	font-family: Helvetica;
+	margin: 0px;
+	height: 0px;
+}
+
+div.gm {
+	width: 40px;
+	height: 35px;
+	background-color: #494949;
+	border-radius: 25px 25px 25px 25px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	float: right;
+	font-weight: 100;
+	padding-top: 5px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+div.ima {
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	font-size: 13px;
+}
+
+div.gma {
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	font-size: 13px;
+}
+
+img.logo {
+	margin-left: 800px;
+	margin-top: 200px;
+}
+
+.trazigugl {
+	width: 600px;
+	height: 45px;
+	margin-left: 650px;
+	border: 1px solid #e0e0e0;
+	margin-top: 30px;
+	box-shadow: 1px 5px 10px 0px #e0e0e0;
+}
+
+div.gs {
+	width: 150px;
+	height: 35px;
+	margin-left: 780px;
+	display: inline-block;
+	background-color: #e8e8e8;
+	opacity: 0.5;
+	font-weight: 600;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 14px;
+	padding-top: 10px;
+	height: 30px;
+}
+
+div.ifl {
+	width: 150px;
+	height: 30px;
+	margin-left: 5px;
+	display: inline-block;
+	background-color: #e8e8e8;
+	opacity: 0.5;
+	font-weight: 600;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 14px;
+	padding-top: 10px;
+}
+
+img.mic {
+	width: 15px;
+	height: 20px;
+	margin-left: -30px;
+	position: fixed;
+	margin-top: 43px
+}
+
+div.gs:hover, div.ifl:hover {
+	opacity: 0.8;
+}
+
+div.cro {
+	width: 1890px;
+	background-color: #e8e8e8;
+	height: 30px;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 460px;
+	opacity: 0.8;
+	border-top: 1px solid #cecece;
+	border-bottom: 1px solid #cecece;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+
+div.footer {
+	margin: 0px;
+	height: 0px;
+}
+
+div.dno {
+	background-color: #e8e8e8;
+	display: inline-block;
+	width: 1890px;
+	margin-top: 0px;
+	opacity: 0.8;
+	padding-left: 30px;
+	padding-top: 10px;
+	font-size: 13px;
+	height: 30px;
+}
+
+div.dno2 {
+	display: inline-block;
+	float: left;
+	margin-left: 100px;
+	margin-top: -15px;
+}
+
+div.dno3 {
+	display: inline-block;
+	float: left;
+	margin-left: 200px;
+	margin-top: -15px;
+}
+
+div.dno1 {
+	display: inline-block;
+	margin-left: 100px;
+}
+ 
+
+div.dno11, div.dno22, div.dno33 {
+	float: right;
+	margin-right: 50px;
+	margin-top: -25px;
+	display: inline-block;
+}
+
+div.dno11 {
+	margin-right: 100px;
+}
+
+div.dno22 {
+	margin-right: 100px;
+}
+
+div.dno22 {
+	margin-right: 100px;
+}
